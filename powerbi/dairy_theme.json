@@ -1,0 +1,30 @@
+{
+  "name": "Dairy Analysis - Teal Slate",
+  "dataColors": [
+    "#00897B",
+    "#3974CB",
+    "#D38B25",
+    "#8B5CB8",
+    "#C7557A"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#172B4D",
+  "tableAccent": "#00897B",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI",
+      "fontSize": 15,
+      "color": "#172B4D"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#64748B"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "fontSize": 28,
+      "color": "#172B4D"
+    }
+  }
+}
