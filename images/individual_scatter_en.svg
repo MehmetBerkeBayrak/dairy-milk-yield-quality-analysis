@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="870" viewBox="0 0 1200 870">
+<rect width="1200" height="870" fill="#F3F5F9"/>
+<text x="30" y="40" font-family="Arial, sans-serif" font-size="25" fill="#172B4D" font-weight="bold">SCC increase and milk loss: individual cows</text>
+<rect x="30" y="75" width="370" height="330" rx="10" fill="white"/>
+<text x="45" y="103" font-family="Arial, sans-serif" font-size="17" fill="#172B4D" font-weight="bold">HF50 | n=10 | r=0.528</text>
+<line x1="75.0" y1="125" x2="75.0" y2="345" stroke="#E5E7EB"/>
+<text x="68.0" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="148.75" y1="125" x2="148.75" y2="345" stroke="#E5E7EB"/>
+<text x="141.75" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="222.5" y1="125" x2="222.5" y2="345" stroke="#E5E7EB"/>
+<text x="215.5" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="296.25" y1="125" x2="296.25" y2="345" stroke="#E5E7EB"/>
+<text x="289.25" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<line x1="370.0" y1="125" x2="370.0" y2="345" stroke="#E5E7EB"/>
+<text x="363.0" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">80</text>
+<line x1="75" y1="345.0" x2="370" y2="345.0" stroke="#E5E7EB"/>
+<text x="45" y="349.0" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="75" y1="282.14285714285717" x2="370" y2="282.14285714285717" stroke="#E5E7EB"/>
+<text x="45" y="286.14285714285717" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="75" y1="219.28571428571428" x2="370" y2="219.28571428571428" stroke="#E5E7EB"/>
+<text x="45" y="223.28571428571428" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="75" y1="156.42857142857144" x2="370" y2="156.42857142857144" stroke="#E5E7EB"/>
+<text x="45" y="160.42857142857144" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<circle cx="272.853" cy="297.552" r="5" fill="#00897B" fill-opacity=".85"><title>ID 202: SCC +53.66%, milk loss 15.10%</title></circle>
+<circle cx="224.583" cy="279.053" r="5" fill="#00897B" fill-opacity=".85"><title>ID 203: SCC +40.56%, milk loss 20.98%</title></circle>
+<circle cx="318.677" cy="269.263" r="5" fill="#00897B" fill-opacity=".85"><title>ID 204: SCC +66.08%, milk loss 24.10%</title></circle>
+<circle cx="259.622" cy="288.167" r="5" fill="#00897B" fill-opacity=".85"><title>ID 205: SCC +50.07%, milk loss 18.08%</title></circle>
+<circle cx="240.447" cy="290.284" r="5" fill="#00897B" fill-opacity=".85"><title>ID 206: SCC +44.87%, milk loss 17.41%</title></circle>
+<circle cx="289.329" cy="261.154" r="5" fill="#00897B" fill-opacity=".85"><title>ID 207: SCC +58.12%, milk loss 26.68%</title></circle>
+<circle cx="235.430" cy="288.948" r="5" fill="#00897B" fill-opacity=".85"><title>ID 208: SCC +43.51%, milk loss 17.83%</title></circle>
+<circle cx="281.799" cy="287.202" r="5" fill="#00897B" fill-opacity=".85"><title>ID 209: SCC +56.08%, milk loss 18.39%</title></circle>
+<circle cx="291.340" cy="270.211" r="5" fill="#00897B" fill-opacity=".85"><title>ID 210: SCC +58.67%, milk loss 23.80%</title></circle>
+<circle cx="254.148" cy="304.945" r="5" fill="#00897B" fill-opacity=".85"><title>ID 211: SCC +48.58%, milk loss 12.74%</title></circle>
+<text x="90" y="389" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">SCC increase (%)</text>
+<rect x="420" y="75" width="370" height="330" rx="10" fill="white"/>
+<text x="435" y="103" font-family="Arial, sans-serif" font-size="17" fill="#172B4D" font-weight="bold">HF62.5 | n=10 | r=0.492</text>
+<line x1="465.0" y1="125" x2="465.0" y2="345" stroke="#E5E7EB"/>
+<text x="458.0" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="538.75" y1="125" x2="538.75" y2="345" stroke="#E5E7EB"/>
+<text x="531.75" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="612.5" y1="125" x2="612.5" y2="345" stroke="#E5E7EB"/>
+<text x="605.5" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="686.25" y1="125" x2="686.25" y2="345" stroke="#E5E7EB"/>
+<text x="679.25" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<line x1="760.0" y1="125" x2="760.0" y2="345" stroke="#E5E7EB"/>
+<text x="753.0" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">80</text>
+<line x1="465" y1="345.0" x2="760" y2="345.0" stroke="#E5E7EB"/>
+<text x="435" y="349.0" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="465" y1="282.14285714285717" x2="760" y2="282.14285714285717" stroke="#E5E7EB"/>
+<text x="435" y="286.14285714285717" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="465" y1="219.28571428571428" x2="760" y2="219.28571428571428" stroke="#E5E7EB"/>
+<text x="435" y="223.28571428571428" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="465" y1="156.42857142857144" x2="760" y2="156.42857142857144" stroke="#E5E7EB"/>
+<text x="435" y="160.42857142857144" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<circle cx="600.459" cy="288.464" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 302: SCC +36.73%, milk loss 17.99%</title></circle>
+<circle cx="598.292" cy="295.323" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 303: SCC +36.15%, milk loss 15.81%</title></circle>
+<circle cx="626.712" cy="299.584" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 304: SCC +43.85%, milk loss 14.45%</title></circle>
+<circle cx="641.393" cy="281.794" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 305: SCC +47.84%, milk loss 20.11%</title></circle>
+<circle cx="636.954" cy="294.243" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 306: SCC +46.63%, milk loss 16.15%</title></circle>
+<circle cx="588.038" cy="304.503" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 307: SCC +33.37%, milk loss 12.89%</title></circle>
+<circle cx="628.298" cy="285.150" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 308: SCC +44.28%, milk loss 19.04%</title></circle>
+<circle cx="623.570" cy="280.291" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 309: SCC +43.00%, milk loss 20.59%</title></circle>
+<circle cx="602.627" cy="327.936" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 310: SCC +37.32%, milk loss 5.43%</title></circle>
+<circle cx="625.195" cy="298.246" r="5" fill="#3974CB" fill-opacity=".85"><title>ID 311: SCC +43.44%, milk loss 14.88%</title></circle>
+<text x="480" y="389" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">SCC increase (%)</text>
+<rect x="810" y="75" width="370" height="330" rx="10" fill="white"/>
+<text x="825" y="103" font-family="Arial, sans-serif" font-size="17" fill="#172B4D" font-weight="bold">HF75 | n=10 | r=-0.003</text>
+<line x1="855.0" y1="125" x2="855.0" y2="345" stroke="#E5E7EB"/>
+<text x="848.0" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="928.75" y1="125" x2="928.75" y2="345" stroke="#E5E7EB"/>
+<text x="921.75" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="1002.5" y1="125" x2="1002.5" y2="345" stroke="#E5E7EB"/>
+<text x="995.5" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="1076.25" y1="125" x2="1076.25" y2="345" stroke="#E5E7EB"/>
+<text x="1069.25" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<line x1="1150.0" y1="125" x2="1150.0" y2="345" stroke="#E5E7EB"/>
+<text x="1143.0" y="364" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">80</text>
+<line x1="855" y1="345.0" x2="1150" y2="345.0" stroke="#E5E7EB"/>
+<text x="825" y="349.0" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="855" y1="282.14285714285717" x2="1150" y2="282.14285714285717" stroke="#E5E7EB"/>
+<text x="825" y="286.14285714285717" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="855" y1="219.28571428571428" x2="1150" y2="219.28571428571428" stroke="#E5E7EB"/>
+<text x="825" y="223.28571428571428" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="855" y1="156.42857142857144" x2="1150" y2="156.42857142857144" stroke="#E5E7EB"/>
+<text x="825" y="160.42857142857144" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<circle cx="1010.751" cy="269.474" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 402: SCC +42.24%, milk loss 24.03%</title></circle>
+<circle cx="1005.780" cy="279.646" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 403: SCC +40.89%, milk loss 20.79%</title></circle>
+<circle cx="988.171" cy="313.100" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 404: SCC +36.11%, milk loss 10.15%</title></circle>
+<circle cx="1004.831" cy="291.781" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 405: SCC +40.63%, milk loss 16.93%</title></circle>
+<circle cx="1070.888" cy="298.726" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 406: SCC +58.55%, milk loss 14.72%</title></circle>
+<circle cx="1022.962" cy="309.251" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 407: SCC +45.55%, milk loss 11.37%</title></circle>
+<circle cx="1013.579" cy="303.987" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 408: SCC +43.00%, milk loss 13.05%</title></circle>
+<circle cx="1028.631" cy="300.986" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 409: SCC +47.09%, milk loss 14.00%</title></circle>
+<circle cx="1012.037" cy="307.644" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 410: SCC +42.59%, milk loss 11.89%</title></circle>
+<circle cx="1001.854" cy="303.708" r="5" fill="#D38B25" fill-opacity=".85"><title>ID 411: SCC +39.82%, milk loss 13.14%</title></circle>
+<text x="870" y="389" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">SCC increase (%)</text>
+<rect x="30" y="425" width="370" height="330" rx="10" fill="white"/>
+<text x="45" y="453" font-family="Arial, sans-serif" font-size="17" fill="#172B4D" font-weight="bold">HF87.5 | n=10 | r=0.149</text>
+<line x1="75.0" y1="475" x2="75.0" y2="695" stroke="#E5E7EB"/>
+<text x="68.0" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="148.75" y1="475" x2="148.75" y2="695" stroke="#E5E7EB"/>
+<text x="141.75" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="222.5" y1="475" x2="222.5" y2="695" stroke="#E5E7EB"/>
+<text x="215.5" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="296.25" y1="475" x2="296.25" y2="695" stroke="#E5E7EB"/>
+<text x="289.25" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<line x1="370.0" y1="475" x2="370.0" y2="695" stroke="#E5E7EB"/>
+<text x="363.0" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">80</text>
+<line x1="75" y1="695.0" x2="370" y2="695.0" stroke="#E5E7EB"/>
+<text x="45" y="699.0" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="75" y1="632.1428571428571" x2="370" y2="632.1428571428571" stroke="#E5E7EB"/>
+<text x="45" y="636.1428571428571" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="75" y1="569.2857142857143" x2="370" y2="569.2857142857143" stroke="#E5E7EB"/>
+<text x="45" y="573.2857142857143" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="75" y1="506.42857142857144" x2="370" y2="506.42857142857144" stroke="#E5E7EB"/>
+<text x="45" y="510.42857142857144" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<circle cx="237.042" cy="652.812" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 502: SCC +43.94%, milk loss 13.42%</title></circle>
+<circle cx="219.524" cy="666.429" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 503: SCC +39.19%, milk loss 9.09%</title></circle>
+<circle cx="189.023" cy="689.210" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 504: SCC +30.92%, milk loss 1.84%</title></circle>
+<circle cx="168.797" cy="664.990" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 505: SCC +25.44%, milk loss 9.55%</title></circle>
+<circle cx="193.734" cy="658.615" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 506: SCC +32.20%, milk loss 11.58%</title></circle>
+<circle cx="208.095" cy="670.333" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 507: SCC +36.09%, milk loss 7.85%</title></circle>
+<circle cx="182.857" cy="647.873" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 508: SCC +29.25%, milk loss 14.99%</title></circle>
+<circle cx="215.080" cy="678.768" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 509: SCC +37.99%, milk loss 5.16%</title></circle>
+<circle cx="174.053" cy="677.883" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 510: SCC +26.86%, milk loss 5.45%</title></circle>
+<circle cx="205.392" cy="674.822" r="5" fill="#8B5CB8" fill-opacity=".85"><title>ID 511: SCC +35.36%, milk loss 6.42%</title></circle>
+<text x="90" y="739" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">SCC increase (%)</text>
+<rect x="420" y="425" width="370" height="330" rx="10" fill="white"/>
+<text x="435" y="453" font-family="Arial, sans-serif" font-size="17" fill="#172B4D" font-weight="bold">Local | n=10 | r=0.177</text>
+<line x1="465.0" y1="475" x2="465.0" y2="695" stroke="#E5E7EB"/>
+<text x="458.0" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="538.75" y1="475" x2="538.75" y2="695" stroke="#E5E7EB"/>
+<text x="531.75" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="612.5" y1="475" x2="612.5" y2="695" stroke="#E5E7EB"/>
+<text x="605.5" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="686.25" y1="475" x2="686.25" y2="695" stroke="#E5E7EB"/>
+<text x="679.25" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<line x1="760.0" y1="475" x2="760.0" y2="695" stroke="#E5E7EB"/>
+<text x="753.0" y="714" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">80</text>
+<line x1="465" y1="695.0" x2="760" y2="695.0" stroke="#E5E7EB"/>
+<text x="435" y="699.0" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">0</text>
+<line x1="465" y1="632.1428571428571" x2="760" y2="632.1428571428571" stroke="#E5E7EB"/>
+<text x="435" y="636.1428571428571" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">20</text>
+<line x1="465" y1="569.2857142857143" x2="760" y2="569.2857142857143" stroke="#E5E7EB"/>
+<text x="435" y="573.2857142857143" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">40</text>
+<line x1="465" y1="506.42857142857144" x2="760" y2="506.42857142857144" stroke="#E5E7EB"/>
+<text x="435" y="510.42857142857144" font-family="Arial, sans-serif" font-size="11" fill="#64748B" font-weight="normal">60</text>
+<circle cx="743.732" cy="528.391" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 102: SCC +75.59%, milk loss 53.01%</title></circle>
+<circle cx="719.704" cy="505.159" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 103: SCC +69.07%, milk loss 60.40%</title></circle>
+<circle cx="667.537" cy="675.206" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 104: SCC +54.93%, milk loss 6.30%</title></circle>
+<circle cx="644.239" cy="520.070" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 105: SCC +48.61%, milk loss 55.66%</title></circle>
+<circle cx="707.060" cy="617.561" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 106: SCC +65.64%, milk loss 24.64%</title></circle>
+<circle cx="620.863" cy="580.643" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 107: SCC +42.27%, milk loss 36.39%</title></circle>
+<circle cx="650.942" cy="547.598" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 108: SCC +50.42%, milk loss 46.90%</title></circle>
+<circle cx="645.673" cy="509.586" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 109: SCC +49.00%, milk loss 59.00%</title></circle>
+<circle cx="708.004" cy="494.386" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 110: SCC +65.90%, milk loss 63.83%</title></circle>
+<circle cx="674.091" cy="532.705" r="5" fill="#C7557A" fill-opacity=".85"><title>ID 111: SCC +56.70%, milk loss 51.64%</title></circle>
+<text x="480" y="739" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">SCC increase (%)</text>
+<text x="30" y="805" font-family="Arial, sans-serif" font-size="14" fill="#64748B" font-weight="normal">Y axis: milk loss (%) | One point per cow | Identical scales across panels</text>
+<text x="30" y="836" font-family="Arial, sans-serif" font-size="13" fill="#64748B" font-weight="normal">Mendeley Data 10.17632/954f6g36sb.2 | Correlation does not establish causality.</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740">
+<rect width="1200" height="740" fill="#F3F5F9"/>
+<text x="38" y="48" font-family="Arial, sans-serif" font-size="26" fill="#172B4D" font-weight="bold">T0–T2: Süt kaybı ve somatik hücre artışı</text>
+<text x="38" y="78" font-family="Arial, sans-serif" font-size="15" fill="#64748B" font-weight="normal">Hayvan bazındaki yüzde değişimlerin grup ortalaması | Her grupta 10 hayvan</text>
+<rect x="38" y="110" width="550" height="480" rx="12" fill="white"/>
+<text x="58" y="146" font-family="Arial, sans-serif" font-size="19" fill="#172B4D" font-weight="bold">Süt kaybı (%)</text>
+<line x1="153.0" y1="170" x2="153.0" y2="548" stroke="#E5E7EB"/>
+<text x="147.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">0</text>
+<line x1="203.0" y1="170" x2="203.0" y2="548" stroke="#E5E7EB"/>
+<text x="197.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">10</text>
+<line x1="253.0" y1="170" x2="253.0" y2="548" stroke="#E5E7EB"/>
+<text x="247.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">20</text>
+<line x1="303.0" y1="170" x2="303.0" y2="548" stroke="#E5E7EB"/>
+<text x="297.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">30</text>
+<line x1="353.0" y1="170" x2="353.0" y2="548" stroke="#E5E7EB"/>
+<text x="347.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">40</text>
+<line x1="403.0" y1="170" x2="403.0" y2="548" stroke="#E5E7EB"/>
+<text x="397.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">50</text>
+<line x1="453.0" y1="170" x2="453.0" y2="548" stroke="#E5E7EB"/>
+<text x="447.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">60</text>
+<line x1="503.0" y1="170" x2="503.0" y2="548" stroke="#E5E7EB"/>
+<text x="497.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">70</text>
+<text x="56" y="214" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF50</text>
+<rect x="153" y="190" width="97.55793178652942" height="36" rx="3" fill="#00897B"/>
+<text x="259.5579317865294" y="214" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">19.51</text>
+<text x="56" y="284" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF62.5</text>
+<rect x="153" y="260" width="78.66507894360916" height="36" rx="3" fill="#3974CB"/>
+<text x="240.66507894360916" y="284" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">15.73</text>
+<text x="56" y="354" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF75</text>
+<rect x="153" y="330" width="75.04256169562733" height="36" rx="3" fill="#D38B25"/>
+<text x="237.04256169562734" y="354" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">15.01</text>
+<text x="56" y="424" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF87.5</text>
+<rect x="153" y="400" width="42.678617361897935" height="36" rx="3" fill="#8B5CB8"/>
+<text x="204.67861736189792" y="424" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">8.54</text>
+<text x="56" y="494" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">Local</text>
+<rect x="153" y="470" width="228.8833697647159" height="36" rx="3" fill="#C7557A"/>
+<text x="390.8833697647159" y="494" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">45.78</text>
+<rect x="618" y="110" width="550" height="480" rx="12" fill="white"/>
+<text x="638" y="146" font-family="Arial, sans-serif" font-size="19" fill="#172B4D" font-weight="bold">Hücre artışı (%)</text>
+<line x1="733.0" y1="170" x2="733.0" y2="548" stroke="#E5E7EB"/>
+<text x="727.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">0</text>
+<line x1="783.0" y1="170" x2="783.0" y2="548" stroke="#E5E7EB"/>
+<text x="777.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">10</text>
+<line x1="833.0" y1="170" x2="833.0" y2="548" stroke="#E5E7EB"/>
+<text x="827.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">20</text>
+<line x1="883.0" y1="170" x2="883.0" y2="548" stroke="#E5E7EB"/>
+<text x="877.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">30</text>
+<line x1="933.0" y1="170" x2="933.0" y2="548" stroke="#E5E7EB"/>
+<text x="927.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">40</text>
+<line x1="983.0" y1="170" x2="983.0" y2="548" stroke="#E5E7EB"/>
+<text x="977.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">50</text>
+<line x1="1033.0" y1="170" x2="1033.0" y2="548" stroke="#E5E7EB"/>
+<text x="1027.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">60</text>
+<line x1="1083.0" y1="170" x2="1083.0" y2="548" stroke="#E5E7EB"/>
+<text x="1077.0" y="570" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="normal">70</text>
+<text x="636" y="214" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF50</text>
+<rect x="733" y="190" width="260.09885938496996" height="36" rx="3" fill="#00897B"/>
+<text x="1002.09885938497" y="214" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">52.02</text>
+<text x="636" y="284" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF62.5</text>
+<rect x="733" y="260" width="206.31022136512564" height="36" rx="3" fill="#3974CB"/>
+<text x="948.3102213651257" y="284" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">41.26</text>
+<text x="636" y="354" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF75</text>
+<rect x="733" y="330" width="218.23512912786276" height="36" rx="3" fill="#D38B25"/>
+<text x="960.2351291278628" y="354" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">43.65</text>
+<text x="636" y="424" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">HF87.5</text>
+<rect x="733" y="400" width="168.6233844864631" height="36" rx="3" fill="#8B5CB8"/>
+<text x="910.6233844864631" y="424" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">33.72</text>
+<text x="636" y="494" font-family="Arial, sans-serif" font-size="15" fill="#172B4D" font-weight="normal">Local</text>
+<rect x="733" y="470" width="289.0635724559418" height="36" rx="3" fill="#C7557A"/>
+<text x="1031.0635724559418" y="494" font-family="Arial, sans-serif" font-size="13" fill="#172B4D" font-weight="normal">57.81</text>
+<text x="38" y="632" font-family="Arial, sans-serif" font-size="13" fill="#64748B" font-weight="normal">Kaynak: Mendeley Data, DOI 10.17632/954f6g36sb.2 | Analiz: Mehmet Berke Bayrak</text>
+<text x="38" y="663" font-family="Arial, sans-serif" font-size="14" fill="#64748B" font-weight="normal">Betimsel sonuçlar; nedensellik veya klinik tanı göstermez.</text>
+<text x="38" y="692" font-family="Arial, sans-serif" font-size="13" fill="#64748B" font-weight="normal">Veri: 50 eşleştirilmiş hayvan, T0 ve T2 için beşer ölçümün ortalaması.</text>
+</svg>
