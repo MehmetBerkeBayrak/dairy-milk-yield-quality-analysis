@@ -1,0 +1,21 @@
+{
+  "raw_workbook_sha256": "ec3fece684c40343c2a4f8f527f2bbe274e7b5b6ebd2b200fcda623dbdc6a508",
+  "rows": 750,
+  "animals": 50,
+  "animal_condition_rows": 150,
+  "group_condition_rows": 15,
+  "paired_animals": 50,
+  "repeat_count_per_animal_condition": 5,
+  "duplicate_measurement_keys": 0,
+  "missing_cells": 0,
+  "all_animals_milk_loss": true,
+  "all_animals_scc_increase": true,
+  "reconciled_with_user_sql_outputs": true,
+  "sql_executed_in_this_environment": false,
+  "powerbi_desktop_render_tested": false,
+  "data_source": "https://doi.org/10.17632/954f6g36sb.2",
+  "python": "3.12.14",
+  "pandas": "3.0.1",
+  "openpyxl": "3.1.5",
+  "numpy": "2.3.5"
+}
