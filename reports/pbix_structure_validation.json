@@ -1,0 +1,21 @@
+{
+  "pages": 3,
+  "visuals": 21,
+  "semantic_model_unchanged": true,
+  "original_sha256": "1b9d8037d74b22c7e1c1796bec073708983415dc2efe7f1b1f627cf109f82a57",
+  "output_sha256": "429ea1fc6f5a74b71c1631a07d719655589aa3308eb177eabc134ba705851cbf",
+  "checks": [
+    "zip_integrity",
+    "json_parse",
+    "page_bounds",
+    "non_overlapping_blocks",
+    "model_byte_identity"
+  ],
+  "not_checked": [
+    "Power BI Desktop open/save",
+    "native rendering",
+    "filter interactions",
+    "schema validation"
+  ],
+  "limitation": "Contains only original animal-change data model. No raw milk composition table added."
+}
